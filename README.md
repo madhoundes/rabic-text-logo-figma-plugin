@@ -1,2 +1,2 @@
-# rabic-text-logo-figma-plugin
-plugin that generate arabic dummy content text 
+# Arabic-text-logo-figma-plugin
+plugin that generates arabic dummy content text 
